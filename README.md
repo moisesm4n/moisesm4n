@@ -41,7 +41,7 @@ final moises = Engineer(
 ## 🤖 AI Engineering
 
 <p>
-  <img src="https://skillicons.dev/icons?i=python,fastapi,docker,postgres&theme=dark" alt="AI stack"/>
+  <img src="https://skillicons.dev/icons?i=python,js,tensorFlow,pytorsh&theme=dark" alt="AI stack"/>
 </p>
 
 - **LLM APIs** · Prompt Engineering
@@ -51,8 +51,8 @@ final moises = Engineer(
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=transparent&hide_border=true" alt="GitHub stats"/>
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=transparent&hide_border=true" alt="Top languages"/>
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=moisesm4n&show_icons=true&theme=transparent&hide_border=true" alt="GitHub stats"/>
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=moisesm4n&layout=compact&theme=transparent&hide_border=true" alt="Top languages"/>
 </div>
 
 ---
