@@ -1,16 +1,27 @@
-## Hi there 👋
+<h1 align="center">Moises — Mobile & AI Engineer</h1>
+<p align="center">
+  Senior Flutter Developer · 7+ years · Postgrad in Applied AI Engineering<br>
+  🌎 Open to remote opportunities
+</p>
 
-<!--
-**moisesm4n/moisesm4n** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  <a href="https://linkedin.com/in/SEU-USUARIO">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="mailto:SEU@EMAIL.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+</p>
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📱 Mobile Engineering
+I design and ship Flutter apps used in production — from white-label platforms
+to healthcare and fintech products.
+
+**Stack:** Flutter · Dart · Bloc/Riverpod · Clean Architecture · Firebase · REST · CI/CD
+
+## 🤖 AI Engineering
+Currently specializing in applied AI, focused on bringing intelligence into mobile products.
+
+**Stack:** Python · LLM APIs · RAG · Embeddings · Prompt Engineering · AI-assisted dev workflows
