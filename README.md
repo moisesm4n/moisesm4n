@@ -41,7 +41,7 @@ final moises = Engineer(
 ## 🤖 AI Engineering
 
 <p>
-  <img src="https://skillicons.dev/icons?i=python,js,tensorFlow,pytorsh&theme=dark" alt="AI stack"/>
+  <img src="https://skillicons.dev/icons?i=python,js,tensorflow,pytorch&theme=dark" alt="AI stack"/>
 </p>
 
 - **LLM APIs** · Prompt Engineering
